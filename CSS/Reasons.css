@@ -1,0 +1,30 @@
+.reasons{
+    display: grid;
+}
+
+
+.reasons-overtext{
+    font-size: 44px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.service{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 15rem;
+}
+
+
+.teams{
+    display: flex;
+    justify-content: center;
+}
+
+
+.design{
+    display: flex;
+    justify-content: flex-end;
+    padding-right: 15rem;
+}

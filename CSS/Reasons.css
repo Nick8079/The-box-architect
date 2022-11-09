@@ -1,30 +1,46 @@
 .reasons{
-    display: grid;
+height: 433px;
 }
 
 
-.reasons-overtext{
-    font-size: 44px;
-    display: flex;
-    justify-content: center;
+.infos{
+display: flex;
+justify-content: center;
+align-items: center;
 }
 
 
-.service{
-    display: flex;
-    justify-content: flex-start;
-    padding-left: 15rem;
+.infobox{
+    margin: 0 33px;
+    color: #3d445c;
+    width: 250px;
+    padding: 20px 20px 40px 20px;
+    border: solid 1px #a3aac2;
+    border-radius: 4px;
 }
 
 
-.teams{
-    display: flex;
-    justify-content: center;
+.infobox img{
+    height: 40px;
+    margin-bottom: 18px;
 }
 
 
-.design{
-    display: flex;
-    justify-content: flex-end;
-    padding-right: 15rem;
+.infobox p{
+    width: 254px;
+    margin-top: 18px;
+    color: #a3aac2;
+}
+
+
+.reasons h2{
+    padding: 60px 0 48px 0;
+    text-align: center;
+    font-size: 36px;
+    color: #292e3d;
+}
+
+
+.infobox h3{
+    font-size: 20px;
 }

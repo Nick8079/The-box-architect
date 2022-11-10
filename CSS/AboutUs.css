@@ -1,11 +1,25 @@
 .founder{
-    display: grid;
-    /* justify-content: space-between; */
+    display: flex;
     height: 669px;
-    z-index: 10;
+  
 }
 
 .aboutbox{
-    border: solid 1px;
-    border-radius: 4px;
+    white-space: pre;
+    font-size: 100%;
+    color: white;
+    background-color: #2947A9;
+    height: 523px;
+    width: 488px;
+    
+}
+
+
+.aboutus{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    right: 0;
+    
 }

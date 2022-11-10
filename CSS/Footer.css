@@ -1,0 +1,9 @@
+.footertext{
+    color: white;
+    background-color: #2947A9;
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding-left: 3rem;
+}

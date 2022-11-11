@@ -1,0 +1,19 @@
+.Uppercase{
+    text-transform: uppercase;
+    color: #2947A9;
+}
+
+
+.vector{
+    height: 40px;
+    width: 40px;
+}
+
+
+.Bottom{
+display: flex;
+justify-content: center;
+justify-content: space-between;
+margin-right: 300px;
+margin-left: 300px;
+}
